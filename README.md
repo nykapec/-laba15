@@ -1,5 +1,5 @@
 
-# #include "iostream"
+#laba 15 3 варіант #include "iostream"
 #include <string.h>
 #include <stdlib.h>
 
